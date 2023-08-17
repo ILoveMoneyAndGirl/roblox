@@ -1,1 +1,1 @@
-print("s1")
+warn("BBB GAMEID:",game.GameId)
