@@ -7,5 +7,14 @@
  "name_cn":"大剑模拟器",
  "icon_en":"rbxassetid://15060529434",
  "des_cn":"摧毁所有载具，获得传奇大剑！"
+},
+{"des_en":" Punch Walls for Rescue Bro，and Collect Wins!",
+ "icon_cn":"rbxassetid://15150169658",
+ "place":12101371523,
+ "name_en":"Bro Rescue Simulator",
+ "cn_show":true,
+ "name_cn":"救援好友",
+ "icon_en":"rbxassetid://15150169658",
+ "des_cn":"摧毁墙，营救好友！"
 }
 ]
